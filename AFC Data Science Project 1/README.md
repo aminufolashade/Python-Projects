@@ -1,4 +1,4 @@
-# Data-Analytics-Course-Project
+# Project 1: Data-Analytics-Course-Project
 
 For the project, you are provided with a dataset to analyze using the skills learned in the course.
 
